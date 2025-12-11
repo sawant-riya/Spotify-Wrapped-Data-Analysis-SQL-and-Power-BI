@@ -25,9 +25,9 @@ A self-built “Spotify Wrapped” analytics dashboard that analyzes streaming h
 6.Tools & Technologies
 - **SQL** (PostgreSQL)
 - **Power BI Desktop**
-- **DAX **
-- ** GitHub**
-- ** Behavioral Analysis**
+- DAX 
+- GitHub
+- Behavioral Analysis
 
 7.How this project helps?
   This project matters because it proves my ability to take raw data, analyze it using SQL, and build an interactive business-ready dashboard in Power BI —           demonstrating problem-solving, analytics, and storytelling skills.
